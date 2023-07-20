@@ -157,6 +157,23 @@ dummy file commit
 
 
 
+methods
+
+
+
+
+main method
+
+public static void main(String []args){
+
+}
+
+static varables
+
+non static variables
+
+
+
 
 
 
