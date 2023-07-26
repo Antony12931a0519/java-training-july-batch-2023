@@ -172,6 +172,170 @@ static varables
 
 non static variables
 
+public class MethodsExample{
+
+int a= 100;//initiization
+
+public s v main(){
+
+Sysout(a);//invocation
+
+abcd();//invocation
+
+
+}
+
+public s v abcd(){
+
+Sysout(a);
+abcd();
+abcd();
+abcd();
+abcd();
+abcd();
+abcd();
+
+}public s v abcd1(){
+Sysout(a);
+}public s v abcd2(){
+Sysout(a);
+}public s v abcd3(){
+Sysout(a);
+}
+public s v abcd()4{
+Sysout(a);
+}public s v abcd()5{
+Sysout(a);
+}public s v abcd()6{
+Sysout(a);
+}
+
+
+
+
+
+}
+
+variable declaraion 
+variable invocaion
+
+
+sysout()
+
+
+
+operators:
+-----------
+arithemetic operators
++
+-
+*
+/
+%
+assignment operators
+relational operators
+logical operators
+bitwise operators
+
+
+
+addition of 1 and 2 is : 3
+addition of 1 and 2 is : 1
+addition of 1 and 2 is : 2
+addition of 1 and 2 is : 1
+addition of 1 and 2 is : 1
+
+1+2
+
+clas{
+
+void addition(int a, int b){
+
+Sysout("addition of"+ a +" and "+b  ="is : "+(a+b));
+}
+}
+
+
+relational operators
+
+10 and 20
+
+
+a>b-false
+b>a--true
+
+a==b--false
+a!=b---false
+
+a<=b-----true
+b>=a---true
+
+
+true/false
+
+
+logical operators
+
+&&
+||
+
+true
+T T -T
+false
+
+
+false
+F F- F
+T
+
+
+voting application/maririage appliction
+
+---------------------------------------
+
+int age =100;
+
+comparion of age with eligibility criteria(18)
+
+age>=elibiter--true{
+
+execute this
+
+}else{
+
+
+execute this
+}
+
+
+if(condition1 && origin county===india){
+
+}else{
+
+
+
+}
+
+if(condition1 || origin county===india){
+
+}else{
+
+
+
+}
+
+control stateents
+
+if else
+nested if else
+switch
+
+
+
+
+
+
+
 
 
 
