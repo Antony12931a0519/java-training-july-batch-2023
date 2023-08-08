@@ -330,6 +330,67 @@ if else
 nested if else
 switch
 
+100
+20
+12
+
+n 
+n-1
+
+
+DiscountCalculator{
+
+ordercount=100;
+delivery=
+
+0,100000,20000,>200000
+
+if(ordercount>0 && ordercount<=10000)
+
+if(ordercount>0 ){
+}
+applydiscount-5
+
+10
+
+15
+ 
+
+
+}
+
+
+enter the total amount : 20000
+>0 >=1000
+5
+500
+deliver:0
+
+>0 >1000 <=20000
+15
+
+>200000
+20
+
+applyied discont: 5/15/20=
+
+
+
+
+
+PRICE DETAILS
+MRP (1 item)
+₹265
+Product Discount
+− ₹128
+Delivery Fee
+₹50
+Total Amount
+₹187
+
+
+
+
 
 
 
